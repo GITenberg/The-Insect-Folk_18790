@@ -1,0 +1,30 @@
+_repo: The-Insect-Folk_18790
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, Margaret Warner
+    alias: Morley, Margaret W.
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '8252'
+    url: http://www.gutenberg.org/2009/agents/8252
+description: Illustrated by the author.
+gutenberg_bookshelf:
+- Animals-Wild-Insects
+- Children's Instructional Books
+gutenberg_issued: '2006-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Insects -- Juvenile literature'
+title: The Insect Folk
+url: http://www.gutenberg.org/ebooks/18790
