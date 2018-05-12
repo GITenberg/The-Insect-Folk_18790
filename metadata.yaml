@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8252'
     url: http://www.gutenberg.org/2009/agents/8252
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18790#The-Insect-Folk
 gutenberg_bookshelf:
 - Animals-Wild-Insects
 - Children's Instructional Books
